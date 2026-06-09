@@ -6,3 +6,9 @@ A SQL-based E-Commerce Analytics project designed to analyze real-world business
 
 # Dataset
 The dataset includes key business tables such as Customers, Orders, Order Items, Products, and Payments.
+
+
+-<a href="https://github.com/reddyprasanna927-bit/E-Commerce-Analytics-sql/blob/main/customers.csv">dataset</a>
+-<a href="https://github.com/reddyprasanna927-bit/E-Commerce-Analytics-sql/blob/main/order_items%20(1).csv">dataset</a>
+-<a href="https://github.com/reddyprasanna927-bit/E-Commerce-Analytics-sql/blob/main/payments.csv">dataset</a>
+-<a href="https://github.com/reddyprasanna927-bit/E-Commerce-Analytics-sql/blob/main/products.csv">dataset</a>
