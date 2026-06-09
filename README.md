@@ -24,6 +24,30 @@ The dataset includes key business tables such as Customers, Orders, Order Items,
 
 # data interaction
 
+-<a herf="https://github.com/reddyprasanna927-bit/E-Commerce-Analytics-sql/blob/main/E-Commerce%20Analytics%20query.sql"> view query</a>
 
+
+# Process
+- The project starts by designing a relational database with tables for customers, products, orders, order items, and payments.
+- Data is then loaded into the database using CSV files or manual insertion.
+- SQL queries are used to clean data and calculate key KPIs like revenue, conversion rate, and repeat customers.
+- Finally, insights are generated and visualized in a dashboard for business decision-making.
+
+  # project insight
+  - This E-Commerce Analytics project reveals key business patterns through SQL-based analysis of customer and sales data.
+  -It highlights top-performing products, high-value customers, and revenue contribution across different regions.
+  -The analysis shows how customer behavior, such as repeat purchases and conversion rate, directly impacts business growth.
+  -Overall, the project provides actionable insights that help improve sales strategy, customer retention, and revenue optimization.
+
+
+# Final Conclusion
+
+- The E-Commerce Analytics project successfully demonstrates how SQL can be used to analyze large-scale transactional data and generate meaningful business insights.
+
+- It helps in understanding customer behavior, sales performance, and revenue trends across different regions and product categories.
+
+- Key metrics such as conversion rate, repeat customers, and average order value provide a clear view of business efficiency.
+
+- Overall, this project proves the power of data-driven decision-making in improving sales strategy and business growth.
 
 
