@@ -24,7 +24,7 @@ The dataset includes key business tables such as Customers, Orders, Order Items,
 
 # data interaction
 
--<a herf="https://github.com/reddyprasanna927-bit/E-Commerce-Analytics-sql/blob/main/E-Commerce%20Analytics%20query.sql"> view query</a>
+-<a herf="https://github.com/reddyprasanna927-bit/E-Commerce-Analytics-sql/blob/main/E-Commerce%20Analytics%20query.sql"> 
 
 
 # Process
