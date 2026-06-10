@@ -44,6 +44,15 @@ The dataset includes key business tables such as Customers, Orders, Order Items,
   -Overall, the project provides actionable insights that help improve sales strategy, customer retention, and revenue optimization.
 
 
+# data bas er diagram
+<img width="1529" height="1631" alt="ER-diagram" src="https://github.com/user-attachments/assets/97849411-4cbc-4dc6-8753-d2d110b7ca34" />
+
+
+
+
+
+
+
 # Final Conclusion
 
 - The E-Commerce Analytics project successfully demonstrates how SQL can be used to analyze large-scale transactional data and generate meaningful business insights.
