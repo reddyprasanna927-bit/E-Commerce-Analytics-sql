@@ -13,6 +13,10 @@ The dataset includes key business tables such as Customers, Orders, Order Items,
 -<a href="https://github.com/reddyprasanna927-bit/E-Commerce-Analytics-sql/blob/main/payments.csv">dataset</a>
 -<a href="https://github.com/reddyprasanna927-bit/E-Commerce-Analytics-sql/blob/main/products.csv">dataset</a>
 
+# tools
+- my sql
+- my sql work bench
+
 
 # QUESTION (kpi)
 - What is the total revenue generated
